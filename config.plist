@@ -1347,11 +1347,11 @@
 		<key>Generic</key>
 		<dict>
 			<key>AdviseFeatures</key>
-			<true/>
+			<false/>
 			<key>MaxBIOSVersion</key>
 			<false/>
 			<key>MLB</key>
-			<string>C02727270J9JG36AD</string>
+			<string>C02727310GUJG36CB</string>
 			<key>ProcessorType</key>
 			<integer>3841</integer>
 			<key>ROM</key>
@@ -1363,9 +1363,9 @@
 			<key>SystemProductName</key>
 			<string>iMacPro1,1</string>
 			<key>SystemSerialNumber</key>
-			<string>C02V18ZAHX87</string>
+			<string>C02V1DY1HX87</string>
 			<key>SystemUUID</key>
-			<string>1832A8ED-6083-45E0-97E3-FF6AC90F79F7</string>
+			<string>19E33A28-BE5B-429C-A3A9-F49333C1A57D</string>
 		</dict>
 		<key>UpdateDataHub</key>
 		<true/>
