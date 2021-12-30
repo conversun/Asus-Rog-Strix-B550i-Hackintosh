@@ -214,6 +214,17 @@
 				<key>built-in</key>
 				<data>AQ==</data>
 			</dict>
+			<key>PciRoot(0x0)/Pci(0x1,0x2)/Pci(0x0,0x2)/Pci(0x8,0x0)/Pci(0x0,0x0)</key>
+			<dict>
+				<key>AAPL,slot-name</key>
+				<string>Internal@0,1,2/0,2/8,0/0,0</string>
+				<key>device_type</key>
+				<string>Network controller</string>
+				<key>model</key>
+				<string>BCM4360 802.11ac Wireless Network Adapter</string>
+				<key>built-in</key>
+				<data>AQ==</data>
+			</dict>
 		</dict>
 		<key>Delete</key>
 		<dict/>
@@ -1216,7 +1227,7 @@
 		<key>Generic</key>
 		<dict>
 			<key>AdviseFeatures</key>
-			<true/>
+			<false/>
 			<key>MaxBIOSVersion</key>
 			<false/>
 			<key>MLB</key>
@@ -1243,7 +1254,7 @@
 		<key>UpdateSMBIOS</key>
 		<true/>
 		<key>UpdateSMBIOSMode</key>
-		<string>Auto</string>
+		<string>Create</string>
 		<key>UseRawUuidEncoding</key>
 		<false/>
 	</dict>
