@@ -246,6 +246,8 @@
 			<dict>
 				<key>AAPL,slot-name</key>
 				<string>Internal@0,1,2/0,2/9,0/0,0</string>
+				<key>device-id</key>
+				<data>8xWGgA==</data>
 				<key>device_type</key>
 				<string>Ethernet controller</string>
 				<key>model</key>
@@ -1206,7 +1208,7 @@
 				<key>SystemAudioVolume</key>
 				<data>Rg==</data>
 				<key>boot-args</key>
-				<string>keepsyms=1 debug=0x100 agdpmod=pikera dk.e1000=0</string>
+				<string>keepsyms=1 debug=0x100 agdpmod=pikera</string>
 				<key>run-efi-updater</key>
 				<string>No</string>
 				<key>csr-active-config</key>
