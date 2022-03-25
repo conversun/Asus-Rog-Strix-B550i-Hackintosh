@@ -253,6 +253,17 @@
 				<key>model</key>
 				<string>Intel(R) Ethernet Controller I225-V</string>
 			</dict>
+			<key>PciRoot(0x0)/Pci(0x3,0x1)/Pci(0x0,0x0)/Pci(0x0,0x0)/Pci(0x0,0x0)</key>
+			<dict>
+				<key>@0,name</key>
+				<string>ATY,Carswell</string>
+				<key>@1,name</key>
+				<string>ATY,Carswell</string>
+				<key>@2,name</key>
+				<string>ATY,Carswell</string>
+				<key>@3,name</key>
+				<string>ATY,Carswell</string>
+			</dict>
 		</dict>
 		<key>Delete</key>
 		<dict/>
@@ -1035,7 +1046,7 @@
 			<key>ProvideCurrentCpuInfo</key>
 			<true/>
 			<key>SetApfsTrimTimeout</key>
-			<integer>0</integer>
+			<integer>-1</integer>
 			<key>ThirdPartyDrives</key>
 			<false/>
 			<key>XhciPortLimit</key>
