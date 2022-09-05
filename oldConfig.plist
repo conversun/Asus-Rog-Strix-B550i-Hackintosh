@@ -332,7 +332,7 @@
                     <key>BundlePath</key>
                     <string>AppleALC.kext</string>
                     <key>Comment</key>
-                    <string>V1.7.5</string>
+                    <string>V1.7.4</string>
                     <key>Enabled</key>
                     <true/>
                     <key>ExecutablePath</key>
@@ -1217,8 +1217,6 @@
                     <true/>
                     <key>Flavour</key>
                     <string>Auto</string>
-                    <key>FullNvramAccess</key>
-                    <false/>
                     <key>Name</key>
                     <string>OpenShell</string>
                     <key>Path</key>
@@ -1239,8 +1237,6 @@
                     <true/>
                     <key>Flavour</key>
                     <string>Auto</string>
-                    <key>FullNvramAccess</key>
-                    <false/>
                     <key>Name</key>
                     <string>CleanNvram.efi</string>
                     <key>Path</key>
