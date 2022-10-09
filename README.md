@@ -1,6 +1,7 @@
 # Asus-Rog-Strix-B550i-Hackintosh
 
-![](https://img.trackcloud.top/uPic/%E6%88%AA%E5%B1%8F2022-10-09%2010.21.28.png)
+
+<img src=https://img.trackcloud.top/uPic/%E6%88%AA%E5%B1%8F2022-10-09%2010.21.28.png width=50% />
 
 * CPU: 5800X
 * Motherboard: B550i
